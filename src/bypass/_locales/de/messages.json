@@ -1,0 +1,74 @@
+{
+	"appDesc": {
+		"message": "Verschwende deine Zeit nicht mit Unterwerfung. Universal Bypass überspringt automatisch nervige Linkkürzer."
+	},
+	"firstrunTitle": {
+		"message": "Danke, dass du Universal Bypass installiert hast!"
+	},
+	"firstrunSubtitle": {
+		"message": "Du bist der Beste!"
+	},
+	"firstrunNoScript": {
+		"message": "Jedoch sieht es so aus, als ob du NoScript oder ähnliches verwendest, womit Universal Bypass nicht kompatibel ist."
+	},
+	"faq": {
+		"message": "Häufig gestellte Fragen (FAQ)"
+	},
+	"options": {
+		"message": "Optionen"
+	},
+	"optionsLink": {
+		"message": "Ändere die Optionen von Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "Aktiviere Webseiten-Umgehungen."
+	},
+	"optionsTrackerBypass": {
+		"message": "Umgehe Tracker mit Apimon.de."
+	},
+	"optionsInstantNavigation": {
+		"message": "Navigiere mich automatisch zu Ziel-Urls."
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Navigiere mich automatisch zu Ziel-Urls von Trackern."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Blockiere IP-Logger wenn sie nicht umgangen werden können."
+	},
+	"optionsCrowdBypass": {
+		"message": "Gebe und nehme die Ziel-Urls von unumgänglichen Linkkürzern."
+	},
+	"privacyPolicy": {
+		"message": "Datenschutzerklärung"
+	},
+	"optionsUserscripts": {
+		"message": "Eigene Umgehungen"
+	},
+	"optionsUserscriptsSubtitle": {
+		"message": "Es wäre nett, wenn du funktionierende Umgehungen auf GitHub einreichen würdest, damit Andere auch davon profitieren können."
+	},
+	"beforeNavigate": {
+		"message": "Du bist fast am Ziel."
+	},
+	"beforeNavigateDestination": {
+		"message": "Dein Ziel ist %"
+	},
+	"beforeNavigateInfo": {
+		"message": "Willst du, dass Universal Bypass dich automatisch an dein Ziel bringt?"
+	},
+	"blockedTitle": {
+		"message": "Universal Bypass hat dich vor einem IP-Logger geschützt."
+	},
+	"blockedSubtitle": {
+		"message": "Möchtest du nicht, dass Universal Bypass deine IP vor bösen Leuten schützt?"
+	},
+	"crowdBypassed": {
+		"message": "Du musst vielleicht nicht warten!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Andere Universal Bypass-Nutzer haben bereits für dich gewartet und gemeldet, dass das zu % führt."
+	},
+	"crowdBypassedIgnore": {
+		"message": "War das nicht richtig?"
+	}
+}

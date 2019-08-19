@@ -1,0 +1,58 @@
+.memek {
+  margin: auto;
+  background-color: #f7f3f3;
+  width: 70%;
+  
+  padding: 10px;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 30px;
+}
+
+.bokong {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  padding: 1px;
+}
+
+.koceng {
+  display: inline-block;
+  text-align: left;
+ }
+
+ div.rounded {
+   
+    border: 3px dotted gray;
+    margin: auto;
+  width: 70%;
+	color: #000000;
+	font-weight: bold;
+    padding: 1px;
+    
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 10px; }
+    
+    div.kotak {
+	background-color: silver;
+    margin: auto;
+  width: 30%;
+	color: #000000;
+    padding: 1px;
+    
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 20px; }   
+   
+  body { 
+  background: black url("inc/a.png") no-repeat fixed center; 
+}
+
+.intro {
+  margin: auto;
+  background-color: #f7f3f3;
+  width: 30%;
+  
+  padding: 10px;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 20px;
+}
+

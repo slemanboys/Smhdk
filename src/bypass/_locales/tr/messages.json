@@ -1,0 +1,74 @@
+{
+	"appDesc": {
+		"message": "Zamanınızı karmaşa ile harcamayın. Universal Bypass, rahatsız edici bağlantı kısaltıcıları kendiliğinden geçer."
+	},
+	"firstrunTitle": {
+		"message": "Universal Bypass'i kurduğunuz için çok teşekkürler!"
+	},
+	"firstrunSubtitle": {
+		"message": "Harikasınız!"
+	},
+	"firstrunNoScript": {
+		"message": "Ancak görünen o ki Universal Baypass'in uyumlu olmadığı NoScript veya benzeri bir betik kullanıyorsunuz."
+	},
+	"faq": {
+		"message": "Sıkça Sorulan Sorular (SSS)"
+	},
+	"options": {
+		"message": "Seçenekler"
+	},
+	"optionsLink": {
+		"message": "Universal Bypass'ın seçeneklerini değiştir."
+	},
+	"optionsEnabled": {
+		"message": "Web sayfalarını es geçmeyi etkinleştir."
+	},
+	"optionsTrackerBypass": {
+		"message": "Apimon.de kullanarak izleyicileri es geçin."
+	},
+	"optionsInstantNavigation": {
+		"message": "Beni anında hedef adrese yönlendir."
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Beni anında izleyicilerin hedeflerine götür."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Eğer es geçilemezse IP kayıtçılarını engelle."
+	},
+	"optionsCrowdBypass": {
+		"message": "Es geçilemeyen link kısaltıcıların hedeflerini geliştiriciyle paylaş."
+	},
+	"privacyPolicy": {
+		"message": "Gizlilik Sözleşmesi"
+	},
+	"optionsUserscripts": {
+		"message": "Özel Es Geçmeler"
+	},
+	"optionsUserscriptsSubtitle": {
+		"message": "Çalışan es geçmelerinizi GitHub'a eklerseniz diğerlerinin de yararlanması adına iyi olur."
+	},
+	"beforeNavigate": {
+		"message": "Neredeyse vardınız."
+	},
+	"beforeNavigateDestination": {
+		"message": "Hedefiniz: %"
+	},
+	"beforeNavigateInfo": {
+		"message": "Universal Bypass'ın sizi doğrudan hedefe yönlendirmesini ister misiniz?"
+	},
+	"blockedTitle": {
+		"message": "Universal Bypass, IP adresinizin kayıtlara eklenmesini engelledi."
+	},
+	"blockedSubtitle": {
+		"message": "Universal Bypass'ın sizi kötü kişilerin IP adresinizi almasından korumasını istemiyor musunuz?"
+	},
+	"crowdBypassed": {
+		"message": "Beklemeniz gerekmeyebilir!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Diğer Universal Baypass kullanıcıları sizin yerinize beklediler ve bunun % 'e gittiğini bildirdiler."
+	},
+	"crowdBypassedIgnore": {
+		"message": "Bu doğru değil miydi?"
+	}
+}

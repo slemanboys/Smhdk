@@ -1,0 +1,71 @@
+{
+	"appDesc": {
+		"message": "Μην σπαταλάτε το χρόνο σας περιμένοντας. Ο Universal Bypass παραλείπει αυτόματα ενοχλητικούς συνδέσμους συντομεύσεων."
+	},
+	"firstrunTitle": {
+		"message": "Ευχαριστούμε που εγκαταστήσατε το Universal Bypass!"
+	},
+	"firstrunSubtitle": {
+		"message": "Είστε καταπληκτικός\/ή!"
+	},
+	"firstrunNoScript": {
+		"message": "Ωστόσο, φαίνεται να χρησιμοποιείτε NoScript ή παρόμοιο, με τα οποία το Universal Bypass δεν είναι συμβατό."
+	},
+	"faq": {
+		"message": "Συχνές Ερωτήσεις (FAQ)"
+	},
+	"options": {
+		"message": "Επιλογές"
+	},
+	"optionsLink": {
+		"message": "Αλλαγή επιλογών του Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "Ενεργοποίηση παρακάμψεων ιστοσελίδων."
+	},
+	"optionsTrackerBypass": {
+		"message": "Παράκαμψη trackers χρησιμοποιώντας το Apimon.de."
+	},
+	"optionsInstantNavigation": {
+		"message": "Πήγαινε με άμεσα στους προορισμούς."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Μπλόκαρε IP loggers, αν αυτοί δεν μπορούν να παρακάμπτουν."
+	},
+	"optionsCrowdBypass": {
+		"message": "Δώσε και να πάρε τους προορισμούς των unbypassable shorteners."
+	},
+	"privacyPolicy": {
+		"message": "Πολιτική Απορρήτου"
+	},
+	"optionsUserscripts": {
+		"message": "Προσαρμοσμένες παρακάμψεις"
+	},
+	"optionsUserscriptsSubtitle": {
+		"message": "Θα ήταν ωραίο αν θα μπορούσατε να υποβάλετε παρακάμψεις που να λειτουργούν στο GitHub, έτσι ώστε και άλλοι να μπορούν να επωφεληθούν από αυτό."
+	},
+	"beforeNavigate": {
+		"message": "Είστε σχεδόν στο προορισμό σας."
+	},
+	"beforeNavigateDestination": {
+		"message": "Ο προορισμός σας είναι %"
+	},
+	"beforeNavigateInfo": {
+		"message": "Θέλετε το Universal Bypass να σας ανακατευθύνει αμέσως στον προορισμό σας;"
+	},
+	"blockedTitle": {
+		"message": "Το Universal Bypass εμπόδισε την IP σας από το να καταγραφεί."
+	},
+	"blockedSubtitle": {
+		"message": "Δεν θέλετε το Universal Bypass να αποτρέψει τους κακόβουλους φορείς από το να υποκλέψουν την IP σας;"
+	},
+	"crowdBypassed": {
+		"message": "Ίσως να μην χρειαστεί να περιμένετε!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Άλλοι χρήστες του Universal Bypass έχουν ήδη περιμένει εσάς και έχουν αναφέρει ότι αυτό οδηγεί σε %"
+	},
+	"crowdBypassedIgnore": {
+		"message": "Δεν ήταν αυτό σωστό;"
+	}
+}

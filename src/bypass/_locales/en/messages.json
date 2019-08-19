@@ -1,0 +1,74 @@
+{
+	"appDesc": {
+		"message": "Don't waste your time with compliance. Universal Bypass automatically skips annoying link shorteners."
+	},
+	"firstrunTitle": {
+		"message": "Thank you for installing Universal Bypass!"
+	},
+	"firstrunSubtitle": {
+		"message": "You're amazing!"
+	},
+	"firstrunNoScript": {
+		"message": "However, you seem to be using NoScript or similar, which Universal Bypass is not compatible with."
+	},
+	"faq": {
+		"message": "Frequently Asked Questions (FAQ)"
+	},
+	"options": {
+		"message": "Options"
+	},
+	"optionsLink": {
+		"message": "Change Universal Bypass' options."
+	},
+	"optionsEnabled": {
+		"message": "Enable website bypasses."
+	},
+	"optionsTrackerBypass": {
+		"message": "Bypass trackers using Apimon.de."
+	},
+	"optionsInstantNavigation": {
+		"message": "Instantly take me to destinations."
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Instantly take me to destinations of trackers."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Block IP loggers if they can't be bypassed."
+	},
+	"optionsCrowdBypass": {
+		"message": "Give and take the destinations of unbypassable shorteners."
+	},
+	"privacyPolicy": {
+		"message": "Privacy Policy"
+	},
+	"optionsUserscripts": {
+		"message": "Custom Bypasses"
+	},
+	"optionsUserscriptsSubtitle": {
+		"message": "It would be nice if you could submit working bypasses on GitHub, so others can benefit from it."
+	},
+	"beforeNavigate": {
+		"message": "You're almost at your destination."
+	},
+	"beforeNavigateDestination": {
+		"message": "Your destination is %"
+	},
+	"beforeNavigateInfo": {
+		"message": "Do you want Universal Bypass to instantly redirect you to your destination?"
+	},
+	"blockedTitle": {
+		"message": "Universal Bypass prevented your IP from being logged."
+	},
+	"blockedSubtitle": {
+		"message": "Don't want Universal Bypass to prevent bad actors from getting your IP?"
+	},
+	"crowdBypassed": {
+		"message": "You might not have to wait!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Other Universal Bypass users have already waited for you and reported that this leads to %"
+	},
+	"crowdBypassedIgnore": {
+		"message": "Was this not correct?"
+	}
+}
